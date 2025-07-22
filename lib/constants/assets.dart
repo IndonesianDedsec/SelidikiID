@@ -3,4 +3,5 @@ class Assets {
   Assets._();
 
   static const String assetsLauncher = "assets/launcher.png";
+  static const String assetsSplash = "assets/splash.json";
 }
